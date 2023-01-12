@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomas-fryza)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomas-fryza&theme=radical)](https://git.io/streak-stats)
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomas-fryza&show_icons=true&theme=radical)
