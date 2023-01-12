@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomas-fryza&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomas-fryza)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?user=tomas-fryza&show_icons=true&theme=radical)
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomas-fryza&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=tomas-fryza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-fryza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
